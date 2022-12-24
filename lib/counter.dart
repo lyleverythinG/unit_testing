@@ -6,7 +6,7 @@ class Counter {
     value++;
   }
 
-  decrementCounter() {
+  void decrementCounter() {
     value--;
   }
 }
